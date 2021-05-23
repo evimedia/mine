@@ -1,0 +1,68 @@
+{
+  "TimeCreated": "20210222T161546",
+  "Name": "Colo",
+  "Events": [
+    {
+      "Timestamp": 119,
+      "KeyName": "Sub",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 130,
+      "KeyName": "Add",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 147,
+      "KeyName": "Num5",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 147,
+      "KeyName": "Num5",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 164,
+      "KeyName": "Num2",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 247,
+      "KeyName": "Sub",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 60158,
+      "KeyName": "Num2",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 64260,
+      "KeyName": "Num5",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 64260,
+      "KeyName": "Num5",
+      "EventType": "KeyUp"
+    },
+    {
+      "Timestamp": 64277,
+      "KeyName": "Num2",
+      "EventType": "KeyDown"
+    }
+  ],
+  "LoopType": "UntilStopped",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1.0,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

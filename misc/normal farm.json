@@ -1,0 +1,74 @@
+{
+  "TimeCreated": "20210127T004921",
+  "Name": "normal farm",
+  "Events": [
+    {
+      "Timestamp": 2262,
+      "X": 13.77,
+      "Y": 92.19,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 2356,
+      "X": 13.77,
+      "Y": 92.19,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 3056,
+      "X": 31.37,
+      "Y": 91.99,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 3178,
+      "X": 31.37,
+      "Y": 91.99,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 4517,
+      "X": 13.43,
+      "Y": 91.99,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 4620,
+      "X": 13.43,
+      "Y": 91.99,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 5408,
+      "X": 31.71,
+      "Y": 92.25,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 5520,
+      "X": 31.71,
+      "Y": 92.25,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    }
+  ],
+  "LoopType": "UntilStopped",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 5.0,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "S",
+  "UserName": "",
+  "MacroId": ""
+}

@@ -1,0 +1,428 @@
+{
+  "TimeCreated": "20210211T232041",
+  "Name": "Co-op Follow",
+  "Events": [
+    {
+      "Timestamp": 220,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 717,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 749,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 782,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 816,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 849,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 882,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 918,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 948,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 986,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1014,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1047,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1080,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1114,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1145,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1180,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1212,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1245,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1278,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1311,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1343,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1376,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1409,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1443,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1477,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1508,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1550,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1589,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1610,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1640,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1673,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1707,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1744,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1773,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1805,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1838,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1876,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1908,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1939,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 1970,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2004,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2037,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2070,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2102,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2135,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2168,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2202,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2235,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2267,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2301,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2334,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2366,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2406,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2434,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2466,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2504,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2532,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2565,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2598,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2635,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2663,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2696,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2730,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2763,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2796,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2828,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2862,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2895,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2928,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2960,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 2994,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3027,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3060,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3092,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3125,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3158,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3192,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3224,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3257,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3291,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3324,
+      "KeyName": "Num0",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 3352,
+      "KeyName": "Num0",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "UntilStopped",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1.0,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "F",
+  "UserName": "",
+  "MacroId": ""
+}

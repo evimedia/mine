@@ -1,0 +1,33 @@
+{
+  "TimeCreated": "20210327T134413",
+  "Name": "Puri",
+  "Events": [
+    {
+      "Timestamp": 222,
+      "KeyName": "Up",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 229,
+      "KeyName": "Down",
+      "EventType": "KeyDown"
+    },
+    {
+      "Timestamp": 298,
+      "KeyName": "Up",
+      "EventType": "KeyUp"
+    }
+  ],
+  "LoopType": "UntilStopped",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1.0,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}
